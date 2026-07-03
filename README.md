@@ -30,6 +30,17 @@
 - **Tải truyện (Webtoon / Manga)** — tải để đọc offline, chuyển định dạng, dịch & lồng chữ Việt.
 - **Kiểm tra chất lượng (QC)** — tự phát hiện dòng đọc lỗi (câm/quá dài/thiếu chữ) và tạo lại.
 
+## Điểm mới gần đây
+
+- ⚡ **Kịch bản 1-click** — chọn Lồng tiếng phim / Truyện audio / Podcast là cả cụm tùy chọn được set đúng một lượt.
+- ✂️ **Chia final theo giờ** — cắt file audio dài thành các phần N phút (kèm SRT từng phần) để vừa giới hạn upload.
+- 📚 **Thư viện nhân vật series** — phim bộ các tập sau tự giữ đúng giọng nhân vật như tập trước.
+- 📡 **Theo dõi kênh YouTube** — tự liệt kê & lồng tiếng video mới, bỏ qua video đã dub.
+- 🎵 **Nhạc nền khi Merge** — tự lặp nhạc dưới giọng đọc, fade-out khi hết lời.
+- 🎙🔍 **Soát đọc sai bằng STT** — Whisper nghe lại toàn bộ audio, bắt các dòng đọc thiếu/sai.
+
+> Xem đầy đủ trong [Changelog](CHANGELOG.md).
+
 ## Tài liệu
 
 - 📖 **[Hướng dẫn sử dụng đầy đủ](HUONG_DAN_SU_DUNG.md)** — từ cài đặt đến các tính năng nâng cao.
