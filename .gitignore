@@ -1,0 +1,26 @@
+# Chỉ cho phép tài liệu — chặn mọi thứ có thể là mã nguồn / build / secret
+*.py
+*.pyc
+*.pyd
+*.c
+*.bat
+*.ps1
+*.spec
+*.wxs
+*.rtf
+*.msi
+*.exe
+*.pt
+*.dat
+*.wav
+*.WAV
+*.ico
+settings.json
+auth.dat
+*.lockout
+__pycache__/
+build/
+dist/
+output/
+logs/
+*_env/
