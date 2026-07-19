@@ -32,11 +32,13 @@
 
 ## Điểm mới gần đây
 
-- ⚡ **Kịch bản 1-click** — chọn Lồng tiếng phim / Truyện audio / Podcast là cả cụm tùy chọn được set đúng một lượt.
-- ✂️ **Chia final theo giờ** — cắt file audio dài thành các phần N phút (kèm SRT từng phần) để vừa giới hạn upload.
-- 📚 **Thư viện nhân vật series** — phim bộ các tập sau tự giữ đúng giọng nhân vật như tập trước.
-- 📡 **Theo dõi kênh YouTube** — tự liệt kê & lồng tiếng video mới, bỏ qua video đã dub.
-- 🎵 **Nhạc nền khi Merge** — tự lặp nhạc dưới giọng đọc, fade-out khi hết lời.
+- 📖 **Truyện chữ → Audiobook** — tải truyện chữ, dịch (nếu là truyện nước ngoài) rồi đọc thành audiobook `.m4b` có mục lục chương.
+- 🎭 **Tag cảm xúc theo dòng** — thêm `[vui]`/`[giận]`/`[hét]`… vào đầu dòng, Edge TTS tự đổi tốc độ/cao độ; tag không bị đọc thành tiếng.
+- 👄 **Khớp khẩu hình (Lip-sync)** — sau khi lồng tiếng, tự chỉnh miệng nhân vật khớp giọng mới (Wav2Lip + tùy chọn làm nét mặt).
+- 📀 **Gộp nhiều tập → 1 audiobook** — nối các file final theo thứ tự, mỗi tập thành 1 chương trong `.m4b`.
+- 📰 **Đọc bài báo / RSS / Wikipedia → Audio** — dán link là ra file nghe, có mục lục chương cho YouTube.
+- ⬇ **Tải phụ đề YouTube** & 🔥 **gắn phụ đề cứng** — tải sub không cần dub, hoặc burn-in phụ đề vào video.
+- 📱 **Theo dõi & điều khiển qua LAN** — xem tiến trình, tạm dừng/dừng và tải file thành phẩm từ điện thoại.
 - 🎙🔍 **Soát đọc sai bằng STT** — Whisper nghe lại toàn bộ audio, bắt các dòng đọc thiếu/sai.
 
 > Xem đầy đủ trong [Changelog](CHANGELOG.md).
